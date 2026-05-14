@@ -1,5 +1,6 @@
 "SpecPath","SpecReadmeTag","SpecValidationErrors","ServiceFamily","ResourcePath","Version","VersionType","Type","IsTypeSpec","ServiceLifeCycle","DateCreated","JsonFiles"
-"advisor/resource-manager/Microsoft.Advisor/Advisor","package-2025-05-preview","","advisor","Microsoft.Advisor/Advisor","2025-05-01-preview","preview","mgmt","True","Brownfield","","preview/2025-05-01-preview/openapi.json"
+"advisor/resource-manager/Microsoft.Advisor/Advisor","package-2026-02-preview","","advisor","Microsoft.Advisor/Advisor","2026-02-01-preview","preview","mgmt","True","Brownfield","","preview/2026-02-01-preview/openapi.json"
+"advisor/resource-manager/Microsoft.Advisor/Advisor/preview/2025-05-01-preview","","","advisor","Microsoft.Advisor/Advisor","2025-05-01-preview","preview","mgmt","True","Brownfield","2025-09-12","openapi.json"
 "agricultureplatform/resource-manager","package-2024-06-01-preview","","agricultureplatform","Microsoft.AgriculturePlatform","2024-06-01-preview","preview","mgmt","True","Greenfield","","Microsoft.AgriculturePlatform/preview/2024-06-01-preview/openapi.json"
 "ai/data-plane/Azure.AI.Agents","latest","","ai","Azure.AI.Agents","v1","stable","data","True","Brownfield","","stable/v1/azure-ai-agents.json"
 "ai/data-plane/Azure.AI.Agents/preview/2025-05-15-preview","","","ai","Azure.AI.Agents","2025-05-15-preview","preview","data","True","Brownfield","2025-05-14","azure-ai-agents.json"
